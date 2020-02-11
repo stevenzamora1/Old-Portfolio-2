@@ -22,6 +22,11 @@
 	height: 32rem;
 }
 
+.slide-images-selector {
+	width: 100%;
+	object-fit: contain; // or cover, check out the difference
+}
+
 /*
    * Custom translucent site header
    */
