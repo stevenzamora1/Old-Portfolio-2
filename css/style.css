@@ -50,7 +50,9 @@
 	line-height: 1;
 	letter-spacing: -.05rem;
 }
-
+.darkmode--activated .featurette-heading {
+	color: #fff;
+}
 /* RESPONSIVE CSS
   -------------------------------------------------- */
 
